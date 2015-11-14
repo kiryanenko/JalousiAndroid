@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Kirya_000\\Documents\\Android\\JalousiQML\\Jalousi\\android-build\\src\\org\\kde\\necessitas\\ministro\\IMinistro.aidl
+ * Original file: C:\\Users\\Kirya_000\\Documents\\Jalousi\\JalousiAndroid\\Jalousi\\android-build\\src\\org\\kde\\necessitas\\ministro\\IMinistro.aidl
  */
 package org.kde.necessitas.ministro;
 public interface IMinistro extends android.os.IInterface

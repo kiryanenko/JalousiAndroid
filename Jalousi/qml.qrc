@@ -26,5 +26,6 @@
         <file>images/Repeat.png</file>
         <file>images/save.png</file>
         <file>images/uparrow.png</file>
+        <file>images/icon.png</file>
     </qresource>
 </RCC>

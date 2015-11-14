@@ -1,2 +1,2 @@
-C:\Users\Kirya_000\Documents\Android\JalousiQML\Jalousi\android-build\bin\AndroidManifest.xml : \
-C:\Users\Kirya_000\Documents\Android\JalousiQML\Jalousi\android-build\AndroidManifest.xml \
+C:\Users\Kirya_000\Documents\Jalousi\JalousiAndroid\Jalousi\android-build\bin\AndroidManifest.xml : \
+C:\Users\Kirya_000\Documents\Jalousi\JalousiAndroid\Jalousi\android-build\AndroidManifest.xml \

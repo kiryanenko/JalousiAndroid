@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Kirya_000\\Documents\\Android\\JalousiQML\\Jalousi\\android-build\\src\\org\\kde\\necessitas\\ministro\\IMinistroCallback.aidl
+ * Original file: C:\\Users\\Kirya_000\\Documents\\Jalousi\\JalousiAndroid\\Jalousi\\android-build\\src\\org\\kde\\necessitas\\ministro\\IMinistroCallback.aidl
  */
 package org.kde.necessitas.ministro;
 public interface IMinistroCallback extends android.os.IInterface

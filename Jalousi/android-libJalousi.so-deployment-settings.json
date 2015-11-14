@@ -9,7 +9,7 @@
    "toolchain-version": "4.9",
    "ndk-host": "windows-x86_64",
    "target-architecture": "armeabi-v7a",
-   "android-package-source-directory": "C:/Users/Kirya_000/Documents/Android/JalousiQML/Jalousi/android",
-   "qml-root-path": "C:/Users/Kirya_000/Documents/Android/JalousiQML/Jalousi",
-   "application-binary": "C:/Users/Kirya_000/Documents/Android/JalousiQML/Jalousi/libJalousi.so"
+   "android-package-source-directory": "C:/Users/Kirya_000/Documents/Jalousi/JalousiAndroid/Jalousi/android",
+   "qml-root-path": "C:/Users/Kirya_000/Documents/Jalousi/JalousiAndroid/Jalousi",
+   "application-binary": "C:/Users/Kirya_000/Documents/Jalousi/JalousiAndroid/Jalousi/libJalousi.so"
 }
