@@ -1,3 +1,5 @@
+*.user
+*.obj
 /Jalousi/android-build/*
 /Jalousi/debug/*
 /Jalousi/release/*
